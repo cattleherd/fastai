@@ -1,0 +1,1 @@
+these two folders are gradio apps with the saved model that can be deployed to huggingface spaces or cloud server of your choice. It was made using the jupyter notebook thats in this folder.
